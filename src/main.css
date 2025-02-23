@@ -1,0 +1,21 @@
+.container {
+    max-width: 1170px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 15px;
+    box-sizing: border-box;
+}
+
+.back__button {
+    text_decoration: none;
+    margin-left: 20px;
+    margin-top: 20px;
+    border: none;
+    border-radius: 10px;
+    color: #FFFFFF;
+    font-family: Roboto;
+    cursor: pointer;
+    background-color: #2196f3;
+    width: 100px;
+    height: 40px;
+}
